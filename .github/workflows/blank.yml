@@ -6,11 +6,10 @@ on:
 
     paths: 
 
-    - 'factorial.py' 
+     'factorial.py' 
 
-    - 'lint.py' 
+     'lint.py' 
  
-
  jobs: 
 
   build: 
